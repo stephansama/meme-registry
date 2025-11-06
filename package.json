@@ -1,13 +1,14 @@
 {
 	"name": "meme-registry",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Registry of memes by @stephansama",
 	"license": "MIT",
 	"author": {
 		"name": "Stephan Randle",
 		"email": "stephanrandle@hotmail.com",
 		"url": "https://stephansama.info"
 	},
+	"type": "module",
 	"main": "registry.js",
 	"scripts": {
 		"build": "node ./registry.js",
