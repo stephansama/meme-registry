@@ -1,16 +1,19 @@
 {
 	"$schema": "./registry.schema.json",
-	"memes": {
-		"confused-nick-young": {
+	"memes": [
+		{
 			"title": "Confused Nick Young / Swaggy P",
+			"slug": "confused-nick",
+			"path": "./assets/confused-nick.png",
 			"know_your_meme": "https://knowyourmeme.com/memes/confused-nick-young-swaggy-p",
 			"description": "Confused Nick Young, also known as Swaggy P, refers to a reaction image featuring NBA basketball player Nick Young with question marks surrounding his head, which was popularized on Black Twitter to express confusion online, most notably during the Drake and Meek Mill Feud."
 		},
-		"friendship-ended-with-mudasir": {
+		{
 			"title": "Friendship ended with Mudasir",
+			"slug": "friendship-ended-with-mudasir",
 			"path": "./assets/friendship_ended_with_mudasir.jpg",
 			"know_your_meme": "https://knowyourmeme.com/memes/friendship-ended-with-mudasir",
 			"description": "Friendship Ended With Mudasir refers to a Facebook post by Pakistani government worker Asif Raza Rana, announcing he was no longer friends with a man named Mudasir. After the post widely circulated online in September 2015, it spawned a series of photoshopped parodies featuring various celebrities and fictional characters captioned with the phrasal template 'Friendship ended with X / Now Y is my best friend.'"
 		}
-	}
+	]
 }

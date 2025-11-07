@@ -17,7 +17,7 @@ function registryEntrySchema() {
 }
 
 function registrySchema() {
-	return z.object({ memes: z.record(z.string(), registryEntrySchema()) });
+	return z.object({ memes: z.array(registryEntrySchema()) });
 }
 
 async function run() {
