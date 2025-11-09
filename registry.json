@@ -2,6 +2,27 @@
 	"$schema": "./registry.schema.json",
 	"memes": [
 		{
+			"title": "They dont think it be like it is but it do",
+			"path": "./assets/they-dont-think-it-be-like-it-is-but-it-do.jpg",
+			"know_your_meme": "https://knowyourmeme.com/memes/they-dont-think-it-be-like-it-is-but-it-do",
+			"slug": "they-dont-think-it-be-like-it-is-but-it-do",
+			"description": "'They Don't Think It Be Like It Is, But It Do' is a quote attributed to the former Major League Baseball player Oscar Gamble that is often mocked on various web forums and image boards for its indecipherable quality, similar to the questions 'How is babby formed?' and 'Has anyone really been far even as decided to use even go want to do look more like?'"
+		},
+		{
+			"title": "Are ya winning son",
+			"path": "./assets/are-ya-winning-son.png",
+			"know_your_meme": "https://knowyourmeme.com/memes/are-ya-winning-son",
+			"slug": "are-ya-winning-son",
+			"description": "Are Ya Winning, Son? is an exploitable image series based on an MS Paint webcomic in which a father walks in on his son playing a hentai virtual reality game and asks 'are ya winning, son?'"
+		},
+		{
+			"path": "./assets/always-has-been.png",
+			"slug": "always-has-been",
+			"title": "Always has been",
+			"know_your_meme": "https://knowyourmeme.com/memes/wait-its-all-ohio-always-has-been",
+			"description": "Wait, It's All Ohio? Always Has Been refers to an exploitable template in which two astronauts are in space. One looks at Earth and realizes the entire Earth is made up of something other than what is expected, and asks 'Wait, it's all X?' The other astronaut, preparing a gun, says 'Always has been.'"
+		},
+		{
 			"title": "Confused Nick Young / Swaggy P",
 			"slug": "confused-nick",
 			"path": "./assets/confused-nick.png",
